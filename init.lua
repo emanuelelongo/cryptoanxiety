@@ -6,7 +6,8 @@ offlineBalances = { -- other balances to include in computation
   EUR = 0,
   BTC = 0.05,
   ETH = 0,
-  LTC = 0
+  LTC = 0,
+  BCH = 0
 }
 
 function getPrice(pair)
